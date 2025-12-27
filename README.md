@@ -19,7 +19,7 @@ project_root/
     ├── main.py
     └── src/
         ├── __init__.py         
-        ├── chess.py
+        └──  chess.py
 # Как запустить
 1.Склонируйте репозиторий:
 ```bash
@@ -30,4 +30,5 @@ cd chess
 ```bash
 python src/main.py
 ```
+
 
